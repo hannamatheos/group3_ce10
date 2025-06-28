@@ -19,3 +19,4 @@ Group activity to familiarize with git
 # Code Contributors
 
 HANNA
+Monica
