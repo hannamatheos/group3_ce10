@@ -14,7 +14,7 @@ Group activity to familiarize with git
 8. `git branch <branch name>`
 9. `git checkout Kris_branch`
 10. `git merge <branch name>`
-11. `git branch -d Kris_branch`
+11. `git branch -d Kris_monica_branch`
 
 # Code Contributors
 
