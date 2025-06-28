@@ -13,7 +13,7 @@ Group activity to familiarize with git
 7. `git log`
 8. `git branch <branch name>`
 9. `git checkout Kris_branch`
-10. `git merge <branch name>`
+10. `git merge <branch name>`# "group project_updated"
 11. `git branch -d <branch name>`kris
 
 # Code Contributors
