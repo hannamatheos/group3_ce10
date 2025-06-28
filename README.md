@@ -13,7 +13,7 @@ Group activity to familiarize with git
 7. `git log`
 8. `git branch <branch name>`
 9. `git checkout Kris_branch`
-10. `git merge <branch name>`# "group project_updated kris monica new branch"
+10. `git merge <branch name>`# "group project_updatedkkkkk kris monica new branch"
 11. `git branch -d <branch name>`kris
 
 # Code Contributors
@@ -21,3 +21,4 @@ Group activity to familiarize with git
 HANNA
 Monica
 KRISBI
+git config --global credential.helper cache
